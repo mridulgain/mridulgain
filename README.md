@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 
-## I work on this Tech stack
+## I work on these tech stacks
 
 <p align="center">
   <a href="#">
@@ -8,28 +8,50 @@
   </a>
 </p>
 
-## My stats
-<p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+## Stats
+
+<!-- <p align="center"><a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=false&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+</a></p> -->
+
+<p align="center"><a href="#">
+    <img 
+        width="50%" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=tokyonight" 
+        alt="Github stats"/>
+    <br>
+    <img 
+        width="50%" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
+        alt="Total Contributions" />
+    <br>
+    <img 
+        width="50%" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
+        alt="Top Langs" />
+    <br>
+
 </a></p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight" />
-  <br >
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" />
-</p>
-<!--
-**mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Other contributions
 
-Here are some ideas to get you started:
+[![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/)
 
-- 🔭 I’m currently working on ...
+[![Mridul-oc's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-oc's%20%20Github%20stats)](https://github.com/mridulgain-oc/)
+
+
+<!-- **mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
