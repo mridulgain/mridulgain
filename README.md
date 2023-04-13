@@ -11,7 +11,7 @@
 ## Stats
 
 <!-- <p align="center"><a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=false&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </a></p> -->
 
@@ -27,7 +27,7 @@
         alt="Total Contributions" />
     <br>
     <img 
-        width="50%" 
+        width="50%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
         alt="Top Langs" />
     <br>
@@ -36,9 +36,26 @@
 
 ## Other contributions
 
-[![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/)
+<!-- [![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/) -->
 
-[![Mridul-oc's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-oc's%20%20Github%20stats)](https://github.com/mridulgain-oc/)
+<p align="center">
+    <a href="https://github.com/mridul-avesha/">
+        <img 
+            width="45%" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=dracula&&custom_title=mridul-avesha's%20%20Github%20stats" 
+            alt="Total Contributions" 
+        />
+    </a>
+    <a href="https://github.com/mridulgain-oc/">
+        <img 
+            width="45%" 
+            src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=dracula&&custom_title=mridul-oc's%20%20Github%20stats" 
+            alt="Mridul-oc's GitHub stats" />
+    </a>
+    <br>
+</p>
+
+<!-- [![Mridul-oc's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-oc's%20%20Github%20stats)](https://github.com/mridulgain-oc/) -->
 
 
 <!-- **mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
