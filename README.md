@@ -17,28 +17,28 @@
 
 <p align="center"><a href="#">
     <img 
-        width="50%" 
+        width="40%" 
         src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=tokyonight" 
         alt="Github stats"/>
-    <br>
+    <!-- <br> -->
     <img 
-        width="50%" 
+        width="43%" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
         alt="Total Contributions" />
     <br>
     <img 
-        width="50%"
+        width="40%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
         alt="Top Langs" />
     <br>
 
 </a></p>
 
-## Other contributions
+<!-- ## Other contributions -->
 
 <!-- [![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/) -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/mridul-avesha/">
         <img 
             width="45%" 
@@ -53,7 +53,7 @@
             alt="Mridul-oc's GitHub stats" />
     </a>
     <br>
-</p>
+</p> -->
 
 <!-- [![Mridul-oc's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-oc's%20%20Github%20stats)](https://github.com/mridulgain-oc/) -->
 
