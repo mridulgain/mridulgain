@@ -1,4 +1,19 @@
+<!-- **mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
+
 <h1 align="center">Hi there! 👋</h1>
+
+- 🔭 I’m currently working on ![Kubeslice](https://github.com/kubeslice)
+- 🌱 I’m currently learning Kubernetes concepts & Golang
+- 👯 I’m looking to collaborate on any cool project
+- 🤔 I’m looking for help with understanding k8s controller design patterns
+- 💬 Ask me about anything!
+<!-- - 📫 How to reach me: ... 
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... --->
+
+![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
 ## I work on these tech stacks
 
@@ -56,19 +71,3 @@
 </p> -->
 
 <!-- [![Mridul-oc's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridulgain-oc&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-oc's%20%20Github%20stats)](https://github.com/mridulgain-oc/) -->
-
-
-<!-- **mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
