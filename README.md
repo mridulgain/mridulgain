@@ -32,18 +32,15 @@ Here are some ideas to get you started: -->
 
 <p align="center"><a href="#">
     <img 
-        width="40%" 
+        height="100%" 
+        width="49%" 
         src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=tokyonight" 
         alt="Github stats"/>
-    <!-- <br> -->
+<!--   <br> -->
     <img 
-        width="43%" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
-        alt="Total Contributions" />
-    <br>
-    <img 
-        width="40%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
+        height="100%"
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true&langs_count=4" 
         alt="Top Langs" />
     <br>
 
