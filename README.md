@@ -32,15 +32,13 @@ Here are some ideas to get you started: -->
 
 <p align="center"><a href="#">
     <img 
-        height="100%" 
         width="49%" 
-        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=tokyonight" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=synthwave" 
         alt="Github stats"/>
 <!--   <br> -->
     <img 
-        height="100%"
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true&langs_count=4" 
+        width="44%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=synthwave&count_private=true&langs_count=4" 
         alt="Top Langs" />
     <br>
 
