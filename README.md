@@ -23,7 +23,8 @@ Here are some ideas to get you started: -->
   </a>
 </p>
 
-## Stats
+
+## My Github Stats
 
 <!-- <p align="center"><a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
@@ -49,6 +50,8 @@ Here are some ideas to get you started: -->
 
 </a></p>
 
+## My Sticker Collection
+[![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 <!-- ## Other contributions -->
 
 <!-- [![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/) -->
