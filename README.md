@@ -33,19 +33,19 @@ Here are some ideas to get you started: -->
 
 <p align="center"><a href="#">
     <img 
-        width="40%" 
-        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=tokyonight" 
+        width="42%" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight&show=reviews,prs_merged&rank_icon=percentile" 
         alt="Github stats"/>
     <!-- <br> -->
+    <img 
+        width="41%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
+        alt="Top Langs" />
+    <br>
     <img 
         width="43%" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
         alt="Total Contributions" />
-    <br>
-    <img 
-        width="40%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
-        alt="Top Langs" />
     <br>
 
 </a></p>
