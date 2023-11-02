@@ -34,9 +34,9 @@ Here are some ideas to get you started: -->
 <p align="center"><a href="#">
     <img 
         width="42%" 
-        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight&show=reviews,prs_merged&rank_icon=percentile" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=synthwave&show=reviews,prs_merged&rank_icon=percentile" 
         alt="Github stats"/>
-    <!-- <br> -->
+<!--   <br> -->
     <img 
         width="41%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
@@ -47,7 +47,6 @@ Here are some ideas to get you started: -->
         src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
         alt="Total Contributions" />
     <br>
-
 </a></p>
 
 ## My Sticker Collection
