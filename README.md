@@ -23,7 +23,8 @@ Here are some ideas to get you started: -->
   </a>
 </p>
 
-## Stats
+
+## My Github Stats
 
 <!-- <p align="center"><a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
@@ -32,18 +33,24 @@ Here are some ideas to get you started: -->
 
 <p align="center"><a href="#">
     <img 
-        width="49%" 
-        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&count_private=true&theme=synthwave" 
+        width="42%" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=synthwave&show=reviews,prs_merged&rank_icon=percentile" 
         alt="Github stats"/>
 <!--   <br> -->
     <img 
-        width="44%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=synthwave&count_private=true&langs_count=4" 
+        width="41%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
         alt="Top Langs" />
     <br>
-
+    <img 
+        width="43%" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
+        alt="Total Contributions" />
+    <br>
 </a></p>
 
+## My Sticker Collection
+[![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 <!-- ## Other contributions -->
 
 <!-- [![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/) -->
