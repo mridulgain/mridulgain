@@ -8,6 +8,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Kubernetes concepts & Golang
 - 👯 I’m looking to collaborate on any cool project
 - 🤔 I’m looking for help with understanding k8s controller design patterns
+- 🇮🇳 I'm from India
 - 💬 Ask me about anything!
 <!-- - 📫 How to reach me: ... 
 <!-- - 😄 Pronouns: ...
@@ -15,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
-## I work on these tech stacks
+<h2 align="center">🧰 My Current tech stack 🛠️</h2>
 
 <p align="center">
   <a href="#">
@@ -24,7 +25,7 @@ Here are some ideas to get you started: -->
 </p>
 
 
-## My Github Stats
+<h2 align="center">📊 Github Stats 📈</h2>
 
 <!-- <p align="center"><a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=mridulgain&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
@@ -50,7 +51,8 @@ Here are some ideas to get you started: -->
 
 </a></p>
 
-## My Sticker Collection
+
+<h2 align="center">Sticker Collecion 📌</h2>
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 <!-- ## Other contributions -->
 
