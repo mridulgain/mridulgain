@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
-<h2 align="center">🧰 My Current tech stack 🛠️</h2>
+<h2 align="center">🧰 Tech stack, I'm currently working on 🛠️</h2>
 
 <p align="center">
   <a href="#">
@@ -53,6 +53,7 @@ Here are some ideas to get you started: -->
 
 
 <h2 align="center">Sticker Collecion 📌</h2>
+
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 <!-- ## Other contributions -->
 
