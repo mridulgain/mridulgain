@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
-<h2 align="center">🧰 Tech stack, I'm currently working on 🛠️</h2>
+<h2 align="center">🧰 My current tech stack 🛠️</h2>
 
 <p align="center">
   <a href="#">
