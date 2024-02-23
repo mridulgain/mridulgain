@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
-<h2 align="center">🧰 My current tech stack 🛠️</h2>
+<h2 align="center">🧰 Current Tech stack I'm working on 🛠️</h2>
 
 <p align="center">
   <a href="#">
@@ -52,9 +52,16 @@ Here are some ideas to get you started: -->
 </a></p>
 
 
-<h2 align="center">Sticker Collecion 📌</h2>
+<h2 align="center"> 🏆 Github Trophies 🏆 </h2> 
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="Github Trophies" />
+</p>
+
+
+<h2 align="center">📌 Sticker Collecion 📌</h2>
 
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
+
 <!-- ## Other contributions -->
 
 <!-- [![Mridul-avesha's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mridul-avesha&show_icons=true&&count_private=true&theme=transparent&&custom_title=mridul-avesha's%20%20Github%20stats)](https://github.com/mridul-avesha/) -->
