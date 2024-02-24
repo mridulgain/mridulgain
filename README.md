@@ -16,11 +16,11 @@ Here are some ideas to get you started: -->
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 
-<h2 align="center">🧰 Current Tech stack I'm working on 🛠️</h2>
+<h2 align="center">🧰 Tech stack 🛠️</h2>
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,git,linux,vscode" alt="Mongodb,Expressjs,React,nodejs,nextjs,flutter,Tailwindcss,Postgresql,Firebase,Linux" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,python,bash,docker,git,linux,jenkins,vscode" alt="go,kubernetes,python,docker,git,linux,vscode" />
   </a>
 </p>
 
@@ -54,11 +54,11 @@ Here are some ideas to get you started: -->
 
 <h2 align="center"> 🏆 Github Trophies 🏆 </h2> 
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="Github Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mridulgain&theme=onedark&row=2&column=4" alt="Github Trophies" />
 </p>
 
 
-<h2 align="center">📌 Sticker Collecion 📌</h2>
+<h2 align="center">🎫 Stickers 🎫</h2>
 
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 
