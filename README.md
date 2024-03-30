@@ -54,7 +54,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="center"> 🏆 Github Trophies 🏆 </h2> 
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mridulgain&theme=onedark&row=2&column=4" alt="Github Trophies" />
+<img width="50%" src="https://github-profile-trophy.vercel.app/?username=mridulgain&theme=onedark&row=2&column=4" alt="Github Trophies" />
 </p>
 
 
