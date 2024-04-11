@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
 </p>
 
 
-<h2 align="center">🎫 Stickers 🎫</h2>
+<h2 align="center">🎫 My Sticker Collection! 🎫</h2>
 
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 
