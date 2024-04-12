@@ -8,18 +8,29 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://app.daily.dev/mridulgain"><img src="./devcard.png" width="652" alt="Mridul Gain's Dev Card"/></a>
-
+</p>
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
-</p>
-  <ul>  
-    <li><img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a></li>
-    <li>🌱 Currently learning Kubernetes operator developement, networking & Golang</li>
-    <li>🇮🇳 I'm from India</li>
-  </ul>
+[![GitHub Mridul](https://img.shields.io/github/followers/mridulgain?label=follow&style=social)](https://github.com/mridulgain)
+   
+
+<ul>
+    <li>
+    <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:20px; height:20px;"> Software Enginner at <a href="https://avesha.io/">Avesha</a>
+    </li>
+    <li>
+    <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a>
+    </li>
+    <li>
+    <img src="https://github.com/kubernetes.png" alt="Kubeslice" style="width:20px; height:20px;"> Learning Kubernetes custom operator development, networking & Golang
+    </li>
+    <li>
+    🇮🇳 I'm from India
+    </li>
+</ul>
 <!-- - 📫 How to reach me: ... 
 - 🔭 I’m currently working on ![Kubeslice](https://github.com/kubeslice)
-- 🌱 Currently learning Kubernetes operator developement, networking & Golang
+- 🌱 Currently learning Kubernetes operator development, networking & Golang
 - 🇮🇳 I'm from India
 - 💬 Ask me about anything!
 - 👯 I’m looking to collaborate on any cool project

@@ -18,3 +18,5 @@ jobs:
           type: wide
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
+          # committer_email: mridulgain@gmail.com
+          # committer_name: Mridul Gain
