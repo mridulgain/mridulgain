@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://app.daily.dev/mridulgain"><img src="https://api.daily.dev/devcards/v2/B6P24sEr3b92zG4SdTRck.png?type=wide&r=3m9" width="652" alt="Mridul Gain's Dev Card"/></a>
+  <a href="https://app.daily.dev/mridulgain"><img src="./devcard.png" width="652" alt="Mridul Gain's Dev Card"/></a>
+
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
 </p>
