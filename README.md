@@ -1,20 +1,31 @@
 <!-- **mridulgain/mridulgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started: 
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi 👋, I'm Mridul</h1>
+<h5 align="center">A passionate backend developer & an opensource enthusiast</h5>
+-->
 
-- 🔭 I’m currently working on ![Kubeslice](https://github.com/kubeslice)
-- 🌱 I’m currently learning Kubernetes concepts & Golang
-- 👯 I’m looking to collaborate on any cool project
-- 🤔 I’m looking for help with understanding k8s controller design patterns
-- 🇮🇳 I'm from India
-- 💬 Ask me about anything!
-<!-- - 📫 How to reach me: ... 
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... --->
+<p align="center">
+  <a href="https://app.daily.dev/mridulgain"><img src="https://api.daily.dev/devcards/v2/B6P24sEr3b92zG4SdTRck.png?type=wide&r=3m9" width="652" alt="Mridul Gain's Dev Card"/></a>
 
 ![Views](https://komarev.com/ghpvc/?username=mridulgain)
+</p>
+  <ul>  
+    <li><img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a></li>
+    <li>🌱 Currently learning Kubernetes operator developement, networking & Golang</li>
+    <li>🇮🇳 I'm from India</li>
+  </ul>
+<!-- - 📫 How to reach me: ... 
+- 🔭 I’m currently working on ![Kubeslice](https://github.com/kubeslice)
+- 🌱 Currently learning Kubernetes operator developement, networking & Golang
+- 🇮🇳 I'm from India
+- 💬 Ask me about anything!
+- 👯 I’m looking to collaborate on any cool project
+- 🤔 I’m looking for help with understanding k8s controller design patterns
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... --->
+
 
 <h2 align="center">🧰 Tech stack 🛠️</h2>
 
@@ -35,22 +46,23 @@ Here are some ideas to get you started: -->
 <p align="center"><a href="#">
     <img 
         width="42%" 
-        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight&show=reviews,prs_merged&rank_icon=percentile" 
-        alt="Github stats"/>
-    <!-- <br> -->
-    <img 
-        width="41%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
-        alt="Top Langs" />
-    <br>
-    <img 
-        width="43%" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
         alt="Total Contributions" />
     <br>
+    <img 
+        width="42%" 
+        src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight&show=reviews,prs_merged&rank_icon=percentile" 
+        alt="Github stats"/>
+    <img 
+        width="40%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
+        alt="Top Langs" /> 
+    <br></a>
+</p>
 
-</a></p>
-
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&locale=en" alt="mridulgain" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&" alt="mridulgain" /></p>
 
 <h2 align="center"> 🏆 Github Trophies 🏆 </h2> 
 <p align="center">
@@ -61,6 +73,7 @@ Here are some ideas to get you started: -->
 <h2 align="center">🎫 My Sticker Collection! 🎫</h2>
 
 [![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
+-->
 
 <!-- ## Other contributions -->
 
