@@ -1,11 +1,11 @@
-name: daily-devcard
+name: update-devcard
 on:
   workflow_dispatch:
   push:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "6 6 * * 6" # At 06:06 on Saturday. 
 jobs:
   devcard:
     runs-on: ubuntu-latest

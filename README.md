@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <ul>
     <li>
-    <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:20px; height:20px;"> Software Enginner at <a href="https://avesha.io/">Avesha</a>
+    <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> Software Enginner at <a href="https://avesha.io/">Avesha</a>
     </li>
     <li>
     <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a>
