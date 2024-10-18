@@ -10,30 +10,35 @@ Here are some ideas to get you started:
   <a href="https://app.daily.dev/mridulgain"><img src="./devcard.png" width="652" alt="Mridul Gain's Dev Card"/></a>
 </p>
 
-![Views](https://komarev.com/ghpvc/?username=mridulgain)
-[![GitHub Mridul](https://img.shields.io/github/followers/mridulgain?label=follow&style=social)](https://github.com/mridulgain)
-   
+<h2 align="center"></h2>
 
-<ul>
-    <li>
-    <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> Software Enginner at <a href="https://avesha.io/">Avesha</a>
-    </li>
-    <li>
-    <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a>
-    </li>
-    <li>
-    <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> Coding in Golang
-    </li>
-    <li>
-    <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"> Building micro services with gRPC
-    </li>
-    <li>
-    <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> Implementing Kubernetes custom controllers to develope declarative APIs
-    </li>
-    <li>
-    🇮🇳 I'm from India
-    </li>
-</ul>
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=mridulgain" alt="Views" />
+    <img src="https://img.shields.io/github/followers/mridulgain?label=follow&style=social" alt="Follow" />
+  </a>
+</p>
+<!-- ![Views](https://komarev.com/ghpvc/?username=mridulgain)
+[![GitHub Mridul](https://img.shields.io/github/followers/mridulgain?label=follow&style=social)](https://github.com/mridulgain) -->
+
+<p align="center">
+  <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> 
+    Coding in Golang 
+  <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"><br>
+  🇮🇳 From India, with love! 🇮🇳<br>
+  <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> 
+    Software Enginner at <a href="https://avesha.io/">Avesha</a> 
+  <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> <br>
+  <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> 
+    Currently working on <a href="https://github.com/kubeslice">Kubeslice</a> 
+  <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> <br>
+  <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"> 
+    Building micro services with gRPC 
+  <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"><br>
+  <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> 
+    Implementing Kubernetes custom controllers to develope declarative APIs 
+  <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"><br>
+</p>
 <!-- - 📫 How to reach me: ... 
 - 🔭 I’m currently working on ![Kubeslice](https://github.com/kubeslice)
 - 🌱 Currently learning Kubernetes operator development, networking & Golang
