@@ -22,7 +22,13 @@ Here are some ideas to get you started:
     <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> I’m currently working on <a href="https://github.com/kubeslice">Kubeslice</a>
     </li>
     <li>
-    <img src="https://github.com/kubernetes.png" alt="Kubeslice" style="width:20px; height:20px;"> Learning Kubernetes custom operator development, networking & Golang
+    <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> Coding in Golang
+    </li>
+    <li>
+    <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"> Building micro services with gRPC
+    </li>
+    <li>
+    <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> Implementing Kubernetes custom controllers to develope declarative APIs
     </li>
     <li>
     🇮🇳 I'm from India
