@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 [![GitHub Mridul](https://img.shields.io/github/followers/mridulgain?label=follow&style=social)](https://github.com/mridulgain) -->
 
 <p align="center">
+  🙏 <br>
+  🇮🇳 Indian! 🇮🇳<br>
   <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> 
     Coding in Golang 
   <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"><br>
-  🇮🇳 From India, with love! 🇮🇳<br>
   <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> 
     Software Enginner at <a href="https://avesha.io/">Avesha</a> 
   <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> <br>
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
     Building micro services with gRPC 
   <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"><br>
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> 
-    Implementing Kubernetes custom controllers to develope declarative APIs 
+    Building Kubernetes custom controllers & developing declarative APIs 
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"><br>
 </p>
 <!-- - 📫 How to reach me: ... 
