@@ -27,15 +27,19 @@ Here are some ideas to get you started:
   <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> 
     Coding in Golang 
   <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"><br>
-  <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> 
-    Software Enginner at <a href="https://avesha.io/">Avesha</a> 
-  <img src="https://media.licdn.com/dms/image/C560BAQG7T-wCbMAF_A/company-logo_200_200/0/1630662179478/avesha_logo?e=2147483647&v=beta&t=b9oGQ077-A7SEyO1jM9PunLz6gCHqa8HRd10BMkmXdM" alt="Kubeslice" style="width:16px; height:16px;"> <br>
-  <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> 
-    Currently working on <a href="https://github.com/kubeslice">Kubeslice</a> 
-  <img src="https://github.com/kubeslice.png" alt="Kubeslice" style="width:20px; height:20px;"> <br>
+  
+  <img src="https://github.com/platform9.png" alt="Platform9" style="width:16px; height:16px;"> 
+    Software Enginner at <a href="https://platform9.com/">Platform9</a> 
+  <img src="https://github.com/platform9.png" alt="Platform9" style="width:16px; height:16px;"> <br>
+  
   <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"> 
     Building micro services with gRPC 
   <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"><br>
+  
+  <img src="https://github.com/platform9.png" alt="PCD" style="width:20px; height:20px;"> 
+    Currently working on <a href="https://platform9.com/private-cloud-director/">Private Cloud Director</a> 
+  <img src="https://github.com/platform9.png" alt="PCD" style="width:20px; height:20px;"> <br>
+  
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> 
     Building Kubernetes custom controllers & developing declarative APIs 
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"><br>
