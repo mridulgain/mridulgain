@@ -77,16 +77,20 @@ Here are some ideas to get you started:
         src="https://github-readme-streak-stats.herokuapp.com/?user=mridulgain&theme=tokyonight" 
         alt="Total Contributions" />
     <br>
-    <img 
+    <!-- <img 
         width="42%" 
         src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&theme=tokyonight&show=reviews,prs_merged&rank_icon=percentile" 
-        alt="Github stats"/>
-    <img 
+        alt="Github stats"/> -->
+    <!-- <img 
         width="40%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulgain&layout=compact&theme=tokyonight&count_private=true" 
-        alt="Top Langs" /> 
+        alt="Top Langs" />  -->
     <br></a>
 </p>
+
+<h2 align="center">🎫 Sticker Collection! 🎫</h2>
+
+[![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulgain&show_icons=true&locale=en" alt="mridulgain" />
@@ -97,11 +101,6 @@ Here are some ideas to get you started:
 <img width="50%" src="https://github-profile-trophy.vercel.app/?username=mridulgain&theme=onedark&row=2&column=4" alt="Github Trophies" />
 </p>
 
-
-<h2 align="center">🎫 My Sticker Collection! 🎫</h2>
-
-[![An image of @mridulgain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mridulgain)](https://holopin.io/@mridulgain)
--->
 
 <!-- ## Other contributions -->
 
