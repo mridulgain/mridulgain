@@ -24,24 +24,24 @@ Here are some ideas to get you started:
 <p align="center">
   🙏 <br>
   🇮🇳 Indian! 🇮🇳<br>
-  <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"> 
+  <img src="https://github.com/golang.png" alt="Gopher" style="width:20px; height:20px;"> 
     Coding in Golang 
-  <img src="https://github.com/golang.png" alt="gRPC" style="width:20px; height:20px;"><br>
+  <img src="https://github.com/golang.png" alt="Gopher" style="width:20px; height:20px;"><br>
   
   <img src="https://github.com/platform9.png" alt="Platform9" style="width:16px; height:16px;"> 
     Software Enginner at <a href="https://platform9.com/">Platform9</a> 
   <img src="https://github.com/platform9.png" alt="Platform9" style="width:16px; height:16px;"> <br>
   
-  <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"> 
-    Building micro services with gRPC 
-  <img src="https://github.com/grpc.png" alt="gRPC" style="width:20px; height:20px;"><br>
+  <img src="https://kamaji.clastix.io/assets/images/hero_logo_dark.svg" alt="Kamaji" style="width:20px; height:20px;">
+    Building hosted controlplane with kamaji 
+  <img src="https://kamaji.clastix.io/assets/images/hero_logo_dark.svg" alt="Kamaji" style="width:20px; height:20px;"><br>
   
   <img src="https://github.com/platform9.png" alt="PCD" style="width:20px; height:20px;"> 
     Currently working on <a href="https://platform9.com/private-cloud-director/">Private Cloud Director</a> 
   <img src="https://github.com/platform9.png" alt="PCD" style="width:20px; height:20px;"> <br>
   
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"> 
-    Building Kubernetes custom controllers & developing declarative APIs 
+    Building Kubernetes controllers & developing declarative APIs 
   <img src="https://github.com/kubernetes.png" alt="Kubernetes" style="width:20px; height:20px;"><br>
 </p>
 <!-- - 📫 How to reach me: ... 
